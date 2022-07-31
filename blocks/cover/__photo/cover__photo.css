@@ -8,3 +8,7 @@
 .cover__photo:hover {
   opacity: 20%;
 }
+
+.cover__overlay:hover + .cover__photo {
+  opacity: 20%;
+}

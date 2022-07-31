@@ -1,8 +1,8 @@
 .cover {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 @media (max-width: 767px) {
@@ -32,4 +32,3 @@
     max-width: 1184px;
   }
 }
-
