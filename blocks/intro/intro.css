@@ -1,0 +1,31 @@
+.intro {
+  display: flex;
+}
+
+@media (max-width: 767px) {
+  .intro {
+    padding-top: 64px;
+    margin: 0 16px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px){
+  .intro {
+    padding-top: 88px;
+    margin: 0 24px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .intro {
+    padding-top: 92px;
+    width: 928px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .intro {
+    padding-top: 92px;
+    width: 984px;
+  }
+}

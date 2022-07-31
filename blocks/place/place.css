@@ -1,0 +1,17 @@
+.place {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto 1fr 10fr;
+  grid-template-areas:
+    "title website"
+    ". ."
+    "photo paragraph";
+}
+
+@media (max-width: 767px) {
+  .place {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+}
