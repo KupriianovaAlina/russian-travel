@@ -1,4 +1,17 @@
 .cover__photo {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.6;
+}
+  /* width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
   width: 100%;
   object-fit: contain;
   opacity: 70%;
@@ -11,4 +24,4 @@
 
 .cover__overlay:hover + .cover__photo {
   opacity: 20%;
-}
+} */
