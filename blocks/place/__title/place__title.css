@@ -20,17 +20,9 @@
   }
 }
 
-@media (min-width: 1024px) and (max-width: 1239px) {
+@media (min-width: 1024px) {
   .place__title {
     font-size: 72px;
     line-height: 1.06;
   }
 }
-
-@media (min-width: 1240px) {
-  .place__title {
-    font-size: 72px;
-    line-height: 1.06;
-  }
-}
-

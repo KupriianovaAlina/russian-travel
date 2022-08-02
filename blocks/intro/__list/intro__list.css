@@ -3,7 +3,8 @@
   font-size: 12px;
   line-height: 1.5;
   color: #ffffff;
-  margin: 0;
   padding-top: 33px;
-  white-space: pre-line;
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
 }

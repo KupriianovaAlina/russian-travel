@@ -1,0 +1,8 @@
+.header__lang {
+  text-decoration: none;
+  color: white;
+}
+
+.header__lang:hover {
+  opacity: 80%;
+}
