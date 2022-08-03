@@ -1,0 +1,11 @@
+.cover__black-filter {
+  position: absolute;
+  width: 100%;
+  background-color: rgba(42, 44, 47, 0.3);
+  height: 100%;
+  transition: background-color 0.2s linear;
+}
+
+.cover__overlay:hover {
+  background-color: rgba(42, 44, 47, 0.7);
+} 

@@ -3,6 +3,7 @@
   margin: 0;
   font-weight: 900;
   color: #ffffff;
+  align-self: end;
 }
 
 @media (max-width: 767px) {

@@ -20,3 +20,11 @@
     padding: 28px 48px 0 48px;
   }
 }
+
+@media (min-width: 1280px) {
+  .header {
+    width: 1184px;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
